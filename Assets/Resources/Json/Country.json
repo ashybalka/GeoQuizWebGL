@@ -1,0 +1,3713 @@
+{
+    "_countriesList": [
+        {
+            "Id": 0,
+            "Name": {
+                "EnName": "Afghanistan",
+                "RuName": "Афганистан",
+                "TrName": "Afganistan"
+            },
+            "Capital": {
+                "EnName": "Kabul",
+                "RuName": "Кабул",
+                "TrName": "Kâbil"
+            },
+            "Currency": {
+                "Symbol": "؋",
+                "EnName": "Afghani",
+                "RuName": "Афгани",
+                "TrName": "Afgani"
+            },
+            "Language": "د دې نرم فرانسوي رولونو څخه یو څه وخورئ"
+        },
+        {
+            "Id": 1,
+            "Name": {
+                "EnName": "Albania",
+                "RuName": "Албания",
+                "TrName": "Arnavutluk"
+            },
+            "Capital": {
+                "EnName": "Tirana",
+                "RuName": "Тирана",
+                "TrName": "Tiran"
+            },
+            "Currency": {
+                "Symbol": "L",
+                "EnName": "Lek",
+                "RuName": "Лек",
+                "TrName": "Lek"
+            },
+            "Language": "د دې نرم فرانسوي رولونو څخه یو څه وخورئ"
+        },
+        {
+            "Id": 2,
+            "Name": {
+                "EnName": "Algeria",
+                "RuName": "Алжир",
+                "TrName": "Cezayir"
+            },
+            "Capital": {
+                "EnName": "Algiers",
+                "RuName": "Алжир",
+                "TrName": "Cezayir"
+            },
+            "Currency": {
+                "Symbol": "د.ج",
+                "EnName": "Dinar",
+                "RuName": "Динар",
+                "TrName": "Dinar"
+            }
+        },
+        {
+            "Id": 3,
+            "Name": {
+                "EnName": "Andorra",
+                "RuName": "Андорра",
+                "TrName": "Andorra"
+            },
+            "Capital": {
+                "EnName": "Andorra la Vella",
+                "RuName": "Андорра-ла-Велья",
+                "TrName": "Andorra la Vella"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 4,
+            "Name": {
+                "EnName": "Angola",
+                "RuName": "Ангола",
+                "TrName": "Angola"
+            },
+            "Capital": {
+                "EnName": "Luanda",
+                "RuName": "Луанда",
+                "TrName": "Luanda"
+            },
+            "Currency": {
+                "Symbol": "Kz",
+                "EnName": "Kwanza",
+                "RuName": "Кванза",
+                "TrName": "Kwanza"
+            }
+        },
+        {
+            "Id": 5,
+            "Name": {
+                "EnName": "Antigua and Barbuda",
+                "RuName": "Антигуа и Барбуда",
+                "TrName": "Antigua ve Barbuda"
+            },
+            "Capital": {
+                "EnName": "Saint John's",
+                "RuName": "Сент-Джонс",
+                "TrName": "Saint John's"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "East Caribbean dollar",
+                "RuName": "Восточно-карибский доллар",
+                "TrName": "Doğu Karayip doları"
+            }
+        },
+        {
+            "Id": 6,
+            "Name": {
+                "EnName": "Argentina",
+                "RuName": "Аргентина",
+                "TrName": "Arjantin"
+            },
+            "Capital": {
+                "EnName": "Buenos Aires",
+                "RuName": "Буэнос-Айрес",
+                "TrName": "Buenos Aires"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "Peso",
+                "RuName": "Песо",
+                "TrName": "Peso"
+            }
+        },
+        {
+            "Id": 7,
+            "Name": {
+                "EnName": "Armenia",
+                "RuName": "Армения",
+                "TrName": "Ermenistan"
+            },
+            "Capital": {
+                "EnName": "Yerevan",
+                "RuName": "Ереван",
+                "TrName": "Erivan"
+            },
+            "Currency": {
+                "Symbol": "֏",
+                "EnName": "Dram",
+                "RuName": "Драм",
+                "TrName": "Dram"
+            }
+        },
+        {
+            "Id": 8,
+            "Name": {
+                "EnName": "Australia",
+                "RuName": "Австралия",
+                "TrName": "Avustralya"
+            },
+            "Capital": {
+                "EnName": "Canberra",
+                "RuName": "Канберра",
+                "TrName": "Kanberra"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "Australian dollar",
+                "RuName": "Австралийский доллар",
+                "TrName": "Avustralya doları"
+            }
+        },
+        {
+            "Id": 9,
+            "Name": {
+                "EnName": "Austria",
+                "RuName": "Австрия",
+                "TrName": "Avusturya"
+            },
+            "Capital": {
+                "EnName": "Vienna",
+                "RuName": "Вена",
+                "TrName": "Viyana"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 10,
+            "Name": {
+                "EnName": "Azerbaijan",
+                "RuName": "Азербайджан",
+                "TrName": "Azerbaycan"
+            },
+            "Capital": {
+                "EnName": "Baku",
+                "RuName": "Баку",
+                "TrName": "Bakü"
+            },
+            "Currency": {
+                "Symbol": "₼",
+                "EnName": "Manat",
+                "RuName": "Манат",
+                "TrName": "Manat"
+            }
+        },
+        {
+            "Id": 11,
+            "Name": {
+                "EnName": "Bahrain",
+                "RuName": "Бахрейн",
+                "TrName": "Bahreyn"
+            },
+            "Capital": {
+                "EnName": "Manama",
+                "RuName": "Манама",
+                "TrName": "Manama"
+            },
+            "Currency": {
+                "Symbol": ".د.ب",
+                "EnName": "Dinar",
+                "RuName": "Динар",
+                "TrName": "Dinar"
+            }
+        },
+        {
+            "Id": 12,
+            "Name": {
+                "EnName": "Bangladesh",
+                "RuName": "Бангладеш",
+                "TrName": "Bangladeş"
+            },
+            "Capital": {
+                "EnName": "Dhaka",
+                "RuName": "Дакка",
+                "TrName": "Dakka"
+            },
+            "Currency": {
+                "Symbol": "৳",
+                "EnName": "Taka",
+                "RuName": "Така",
+                "TrName": "Taka"
+            }
+        },
+        {
+            "Id": 13,
+            "Name": {
+                "EnName": "Barbados",
+                "RuName": "Барбадос",
+                "TrName": "Barbados"
+            },
+            "Capital": {
+                "EnName": "Bridgetown",
+                "RuName": "Бриджтаун",
+                "TrName": "Bridgetown"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "Dollar",
+                "RuName": "Доллар",
+                "TrName": "Dolar"
+            }
+        },
+        {
+            "Id": 14,
+            "Name": {
+                "EnName": "Belarus",
+                "RuName": "Беларусь",
+                "TrName": "Belarus"
+            },
+            "Capital": {
+                "EnName": "Minsk",
+                "RuName": "Минск",
+                "TrName": "Minsk"
+            },
+            "Currency": {
+                "Symbol": "Br",
+                "EnName": "Ruble",
+                "RuName": "Рубль",
+                "TrName": "Rubl"
+            }
+        },
+        {
+            "Id": 15,
+            "Name": {
+                "EnName": "Belgium",
+                "RuName": "Бельгия",
+                "TrName": "Belçika"
+            },
+            "Capital": {
+                "EnName": "Brussels",
+                "RuName": "Брюссель",
+                "TrName": "Brüksel"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 16,
+            "Name": {
+                "EnName": "Belize",
+                "RuName": "Белиз",
+                "TrName": "Belize"
+            },
+            "Capital": {
+                "EnName": "Belmopan",
+                "RuName": "Бельмопан",
+                "TrName": "Belmopan"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "Dollar",
+                "RuName": "Доллар",
+                "TrName": "Dolar"
+            }
+        },
+        {
+            "Id": 17,
+            "Name": {
+                "EnName": "Benin",
+                "RuName": "Бенин",
+                "TrName": "Benin"
+            },
+            "Capital": {
+                "EnName": "Porto-Novo",
+                "RuName": "Порто-Ново",
+                "TrName": "Porto-Novo"
+            },
+            "Currency": {
+                "Symbol": "₣",
+                "EnName": "Franc",
+                "RuName": "Франк",
+                "TrName": "Frank"
+            }
+        },
+        {
+            "Id": 18,
+            "Name": {
+                "EnName": "Bhutan",
+                "RuName": "Бутан",
+                "TrName": "Butan"
+            },
+            "Capital": {
+                "EnName": "Thimphu",
+                "RuName": "Тхимпху",
+                "TrName": "Thimphu"
+            },
+            "Currency": {
+                "Symbol": "Nu.",
+                "EnName": "Ngultrum",
+                "RuName": "Нгултрум",
+                "TrName": "Ngultrum"
+            }
+        },
+        {
+            "Id": 19,
+            "Name": {
+                "EnName": "Bolivia",
+                "RuName": "Боливия",
+                "TrName": "Bolivya"
+            },
+            "Capital": {
+                "EnName": "Sucre",
+                "RuName": "Сукре",
+                "TrName": "Sucre"
+            },
+            "Currency": {
+                "Symbol": "Bs.",
+                "EnName": "Boliviano",
+                "RuName": "Боливиано",
+                "TrName": "Boliviano"
+            }
+        },
+        {
+            "Id": 20,
+            "Name": {
+                "EnName": "Bosnia and Herzegovina",
+                "RuName": "Босния и Герцеговина",
+                "TrName": "Bosna-Hersek"
+            },
+            "Capital": {
+                "EnName": "Sarajevo",
+                "RuName": "Сараево",
+                "TrName": "Saraybosna"
+            },
+            "Currency": {
+                "Symbol": "KM",
+                "EnName": "Convertible Mark",
+                "RuName": "Конвертируемая марка",
+                "TrName": "Konvertibilna marka"
+            }
+        },
+        {
+            "Id": 21,
+            "Name": {
+                "EnName": "Botswana",
+                "RuName": "Ботсвана",
+                "TrName": "Botsvana"
+            },
+            "Capital": {
+                "EnName": "Gaborone",
+                "RuName": "Габороне",
+                "TrName": "Gaborone"
+            },
+            "Currency": {
+                "Symbol": "P",
+                "EnName": "Pula",
+                "RuName": "Пула",
+                "TrName": "Pula"
+            }
+        },
+        {
+            "Id": 22,
+            "Name": {
+                "EnName": "Brazil",
+                "RuName": "Бразилия",
+                "TrName": "Brezilya"
+            },
+            "Capital": {
+                "EnName": "Brasília",
+                "RuName": "Бразилиа",
+                "TrName": "Brasília"
+            },
+            "Currency": {
+                "Symbol": "R$",
+                "EnName": "Real",
+                "RuName": "Реал",
+                "TrName": "Real"
+            }
+        },
+        {
+            "Id": 23,
+            "Name": {
+                "EnName": "Brunei",
+                "RuName": "Бруней",
+                "TrName": "Brunei"
+            },
+            "Capital": {
+                "EnName": "Bandar Seri Begawan",
+                "RuName": "Бандар-Сери-Бегаван",
+                "TrName": "Bandar Seri Begawan"
+            },
+            "Currency": {
+                "Symbol": "B$",
+                "EnName": "Brunei dollar",
+                "RuName": "Брунейский доллар",
+                "TrName": "Brunei doları"
+            }
+        },
+        {
+            "Id": 24,
+            "Name": {
+                "EnName": "Bulgaria",
+                "RuName": "Болгария",
+                "TrName": "Bulgaristan"
+            },
+            "Capital": {
+                "EnName": "Sofia",
+                "RuName": "София",
+                "TrName": "Sofya"
+            },
+            "Currency": {
+                "Symbol": "лв",
+                "EnName": "Lev",
+                "RuName": "Лев",
+                "TrName": "Lev"
+            }
+        },
+        {
+            "Id": 25,
+            "Name": {
+                "EnName": "Burkina Faso",
+                "RuName": "Буркина-Фасо",
+                "TrName": "Burkina Faso"
+            },
+            "Capital": {
+                "EnName": "Ouagadougou",
+                "RuName": "Уагадугу",
+                "TrName": "Vagadugu"
+            },
+            "Currency": {
+                "Symbol": "CFA",
+                "EnName": "West African CFA franc",
+                "RuName": "Западноафриканский франк КФА",
+                "TrName": "Batı Afrika CFA frangı"
+            }
+        },
+        {
+            "Id": 26,
+            "Name": {
+                "EnName": "Burundi",
+                "RuName": "Бурунди",
+                "TrName": "Burundi"
+            },
+            "Capital": {
+                "EnName": "Gitega",
+                "RuName": "Гитега",
+                "TrName": "Gitega"
+            },
+            "Currency": {
+                "Symbol": "FBu",
+                "EnName": "Burundian franc",
+                "RuName": "Бурундийский франк",
+                "TrName": "Burundi frangı"
+            }
+        },
+        {
+            "Id": 27,
+            "Name": {
+                "EnName": "Cambodia",
+                "RuName": "Камбоджа",
+                "TrName": "Kamboçya"
+            },
+            "Capital": {
+                "EnName": "Phnom Penh",
+                "RuName": "Пномпень",
+                "TrName": "Phnom Penh"
+            },
+            "Currency": {
+                "Symbol": "៛",
+                "EnName": "Riel",
+                "RuName": "Риель",
+                "TrName": "Riel"
+            }
+        },
+        {
+            "Id": 28,
+            "Name": {
+                "EnName": "Cameroon",
+                "RuName": "Камерун",
+                "TrName": "Kamerun"
+            },
+            "Capital": {
+                "EnName": "Yaoundé",
+                "RuName": "Яунде",
+                "TrName": "Yaoundé"
+            },
+            "Currency": {
+                "Symbol": "FCFA",
+                "EnName": "Central African CFA franc",
+                "RuName": "Центральноафриканский франк КФА",
+                "TrName": "Orta Afrika CFA frangı"
+            }
+        },
+        {
+            "Id": 29,
+            "Name": {
+                "EnName": "Canada",
+                "RuName": "Канада",
+                "TrName": "Kanada"
+            },
+            "Capital": {
+                "EnName": "Ottawa",
+                "RuName": "Оттава",
+                "TrName": "Ottawa"
+            },
+            "Currency": {
+                "Symbol": "C$",
+                "EnName": "Canadian dollar",
+                "RuName": "Канадский доллар",
+                "TrName": "Kanada doları"
+            }
+        },
+        {
+            "Id": 30,
+            "Name": {
+                "EnName": "Cape Verde",
+                "RuName": "Кабо-Верде",
+                "TrName": "Cape Verde"
+            },
+            "Capital": {
+                "EnName": "Praia",
+                "RuName": "Прая",
+                "TrName": "Praia"
+            },
+            "Currency": {
+                "Symbol": "Esc or $",
+                "EnName": "Cape Verdean escudo",
+                "RuName": "Эскудо Кабо-Верде",
+                "TrName": "Cape Verde eskudosu"
+            }
+        },
+        {
+            "Id": 31,
+            "Name": {
+                "EnName": "Central African Republic",
+                "RuName": "Центральноафриканская Республика",
+                "TrName": "Orta Afrika Cumhuriyeti"
+            },
+            "Capital": {
+                "EnName": "Bangui",
+                "RuName": "Банги",
+                "TrName": "Bangui"
+            },
+            "Currency": {
+                "Symbol": "FCFA",
+                "EnName": "Central African CFA franc",
+                "RuName": "Центральноафриканский франк КФА",
+                "TrName": "Orta Afrika CFA frangı"
+            }
+        },
+        {
+            "Id": 32,
+            "Name": {
+                "EnName": "Chad",
+                "RuName": "Чад",
+                "TrName": "Çad"
+            },
+            "Capital": {
+                "EnName": "N'Djamena",
+                "RuName": "Нджамена",
+                "TrName": "N'Djamena"
+            },
+            "Currency": {
+                "Symbol": "FCFA",
+                "EnName": "Central African CFA franc",
+                "RuName": "Центральноафриканский франк КФА",
+                "TrName": "Orta Afrika CFA frangı"
+            }
+        },
+        {
+            "Id": 33,
+            "Name": {
+                "EnName": "Chile",
+                "RuName": "Чили",
+                "TrName": "Şili"
+            },
+            "Capital": {
+                "EnName": "Santiago",
+                "RuName": "Сантьяго",
+                "TrName": "Santiago"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "Chilean peso",
+                "RuName": "Чилийское песо",
+                "TrName": "Şili pesosu"
+            }
+        },
+        {
+            "Id": 34,
+            "Name": {
+                "EnName": "China",
+                "RuName": "Китай",
+                "TrName": "Çin"
+            },
+            "Capital": {
+                "EnName": "Beijing",
+                "RuName": "Пекин",
+                "TrName": "Pekin"
+            },
+            "Currency": {
+                "Symbol": "¥",
+                "EnName": "Renminbi",
+                "RuName": "Юань",
+                "TrName": "Renminbi"
+            }
+        },
+        {
+            "Id": 35,
+            "Name": {
+                "EnName": "Colombia",
+                "RuName": "Колумбия",
+                "TrName": "Kolombiya"
+            },
+            "Capital": {
+                "EnName": "Bogotá",
+                "RuName": "Богота",
+                "TrName": "Bogotá"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "Colombian peso",
+                "RuName": "Колумбийское песо",
+                "TrName": "Kolombiya pesosu"
+            }
+        },
+        {
+            "Id": 36,
+            "Name": {
+                "EnName": "Comoros",
+                "RuName": "Коморы",
+                "TrName": "Komorlar"
+            },
+            "Capital": {
+                "EnName": "Moroni",
+                "RuName": "Морони",
+                "TrName": "Moroni"
+            },
+            "Currency": {
+                "Symbol": "CF",
+                "EnName": "Comorian franc",
+                "RuName": "Коморский франк",
+                "TrName": "Komorlar frangı"
+            }
+        },
+        {
+            "Id": 37,
+            "Name": {
+                "EnName": "Costa Rica",
+                "RuName": "Коста-Рика",
+                "TrName": "Kosta Rika"
+            },
+            "Capital": {
+                "EnName": "San José",
+                "RuName": "Сан-Хосе",
+                "TrName": "San José"
+            },
+            "Currency": {
+                "Symbol": "₡",
+                "EnName": "Costa Rican colón",
+                "RuName": "Коста-риканский колон",
+                "TrName": "Kosta Rika kolonu"
+            }
+        },
+        {
+            "Id": 38,
+            "Name": {
+                "EnName": "Croatia",
+                "RuName": "Хорватия",
+                "TrName": "Hırvatistan"
+            },
+            "Capital": {
+                "EnName": "Zagreb",
+                "RuName": "Загреб",
+                "TrName": "Zagreb"
+            },
+            "Currency": {
+                "Symbol": "kn",
+                "EnName": "Croatian kuna",
+                "RuName": "Хорватская куна",
+                "TrName": "Hırvatistan kunası"
+            }
+        },
+        {
+            "Id": 39,
+            "Name": {
+                "EnName": "Cuba",
+                "RuName": "Куба",
+                "TrName": "Küba"
+            },
+            "Capital": {
+                "EnName": "Havana",
+                "RuName": "Гавана",
+                "TrName": "Havana"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "Cuban peso",
+                "RuName": "Кубинское песо",
+                "TrName": "Küba pesosu"
+            }
+        },
+        {
+            "Id": 40,
+            "Name": {
+                "EnName": "Cyprus",
+                "RuName": "Кипр",
+                "TrName": "Kıbrıs"
+            },
+            "Capital": {
+                "EnName": "Nicosia",
+                "RuName": "Никосия",
+                "TrName": "Lefkoşa"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 41,
+            "Name": {
+                "EnName": "Czech Republic",
+                "RuName": "Чехия",
+                "TrName": "Çek Cumhuriyeti"
+            },
+            "Capital": {
+                "EnName": "Prague",
+                "RuName": "Прага",
+                "TrName": "Prag"
+            },
+            "Currency": {
+                "Symbol": "Kč",
+                "EnName": "Czech koruna",
+                "RuName": "Чешская крона",
+                "TrName": "Çek korunası"
+            }
+        },
+        {
+            "Id": 42,
+            "Name": {
+                "EnName": "Democratic Republic of the Congo",
+                "RuName": "Демократическая Республика Конго",
+                "TrName": "Demokratik Kongo Cumhuriyeti"
+            },
+            "Capital": {
+                "EnName": "Kinshasa",
+                "RuName": "Киншаса",
+                "TrName": "Kinşasa"
+            },
+            "Currency": {
+                "Symbol": "FC",
+                "EnName": "Congolese franc",
+                "RuName": "Конголезский франк",
+                "TrName": "Kongo frangı"
+            }
+        },
+        {
+            "Id": 43,
+            "Name": {
+                "EnName": "Denmark",
+                "RuName": "Дания",
+                "TrName": "Danimarka"
+            },
+            "Capital": {
+                "EnName": "Copenhagen",
+                "RuName": "Копенгаген",
+                "TrName": "Kopenhag"
+            },
+            "Currency": {
+                "Symbol": "kr",
+                "EnName": "Danish krone",
+                "RuName": "Датская крона",
+                "TrName": "Danimarka kronu"
+            }
+        },
+        {
+            "Id": 44,
+            "Name": {
+                "EnName": "Djibouti",
+                "RuName": "Джибути",
+                "TrName": "Cibuti"
+            },
+            "Capital": {
+                "EnName": "Djibouti",
+                "RuName": "Джибути",
+                "TrName": "Cibuti"
+            },
+            "Currency": {
+                "Symbol": "Fdj",
+                "EnName": "Djiboutian franc",
+                "RuName": "Джибутийский франк",
+                "TrName": "Cibuti frangı"
+            }
+        },
+        {
+            "Id": 45,
+            "Name": {
+                "EnName": "Dominica",
+                "RuName": "Доминика",
+                "TrName": "Dominika"
+            },
+            "Capital": {
+                "EnName": "Roseau",
+                "RuName": "Розо",
+                "TrName": "Roseau"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "East Caribbean dollar",
+                "RuName": "Восточно-карибский доллар",
+                "TrName": "Doğu Karayip doları"
+            }
+        },
+        {
+            "Id": 46,
+            "Name": {
+                "EnName": "Dominican Republic",
+                "RuName": "Доминиканская Республика",
+                "TrName": "Dominik Cumhuriyeti"
+            },
+            "Capital": {
+                "EnName": "Santo Domingo",
+                "RuName": "Санто-Доминго",
+                "TrName": "Santo Domingo"
+            },
+            "Currency": {
+                "Symbol": "RD$",
+                "EnName": "Dominican peso",
+                "RuName": "Доминиканское песо",
+                "TrName": "Dominik pesosu"
+            }
+        },
+        {
+            "Id": 47,
+            "Name": {
+                "EnName": "East Timor",
+                "RuName": "Восточный Тимор",
+                "TrName": "Doğu Timor"
+            },
+            "Capital": {
+                "EnName": "Dili",
+                "RuName": "Дили",
+                "TrName": "Dili"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "United States dollar",
+                "RuName": "Доллар США",
+                "TrName": "Amerikan doları"
+            }
+        },
+        {
+            "Id": 48,
+            "Name": {
+                "EnName": "Ecuador",
+                "RuName": "Эквадор",
+                "TrName": "Ekvador"
+            },
+            "Capital": {
+                "EnName": "Quito",
+                "RuName": "Кито",
+                "TrName": "Quito"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "United States dollar",
+                "RuName": "Доллар США",
+                "TrName": "Amerikan doları"
+            }
+        },
+        {
+            "Id": 49,
+            "Name": {
+                "EnName": "Egypt",
+                "RuName": "Египет",
+                "TrName": "Mısır"
+            },
+            "Capital": {
+                "EnName": "Cairo",
+                "RuName": "Каир",
+                "TrName": "Kahire"
+            },
+            "Currency": {
+                "Symbol": "£",
+                "EnName": "Egyptian pound",
+                "RuName": "Египетский фунт",
+                "TrName": "Mısır lirası"
+            }
+        },
+        {
+            "Id": 50,
+            "Name": {
+                "EnName": "El Salvador",
+                "RuName": "Сальвадор",
+                "TrName": "El Salvador"
+            },
+            "Capital": {
+                "EnName": "San Salvador",
+                "RuName": "Сан-Сальвадор",
+                "TrName": "San Salvador"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "United States dollar",
+                "RuName": "Доллар США",
+                "TrName": "Amerikan doları"
+            }
+        },
+        {
+            "Id": 51,
+            "Name": {
+                "EnName": "Equatorial Guinea",
+                "RuName": "Экваториальная Гвинея",
+                "TrName": "Ekvator Ginesi"
+            },
+            "Capital": {
+                "EnName": "Malabo",
+                "RuName": "Малабо",
+                "TrName": "Malabo"
+            },
+            "Currency": {
+                "Symbol": "FCFA",
+                "EnName": "Central African CFA franc",
+                "RuName": "Центральноафриканский франк КФА",
+                "TrName": "Orta Afrika CFA frangı"
+            },
+            "Language": "Spanish, French, Portuguese"
+        },
+        {
+            "Id": 52,
+            "Name": {
+                "EnName": "Eritrea",
+                "RuName": "Эритрея",
+                "TrName": "Eritre"
+            },
+            "Capital": {
+                "EnName": "Asmara",
+                "RuName": "Асмэра",
+                "TrName": "Asmara"
+            },
+            "Currency": {
+                "Symbol": "Nfk",
+                "EnName": "Nakfa",
+                "RuName": "Накфа",
+                "TrName": "Nakfa"
+            },
+            "Language": "Tigrinya, Arabic, English"
+        },
+        {
+            "Id": 53,
+            "Name": {
+                "EnName": "Estonia",
+                "RuName": "Эстония",
+                "TrName": "Estonya"
+            },
+            "Capital": {
+                "EnName": "Tallinn",
+                "RuName": "Таллинн",
+                "TrName": "Tallinn"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            },
+            "Language": "Estonian"
+        },
+        {
+            "Id": 54,
+            "Name": {
+                "EnName": "Eswatini",
+                "RuName": "Эсватини",
+                "TrName": "Esvatini"
+            },
+            "Capital": {
+                "EnName": "Mbabane",
+                "RuName": "Мбабане",
+                "TrName": "Mbabane"
+            },
+            "Currency": {
+                "Symbol": "L",
+                "EnName": "Lilangeni",
+                "RuName": "Лилангени",
+                "TrName": "Lilangeni"
+            },
+            "Language": "Swazi, English"
+        },
+        {
+            "Id": 55,
+            "Name": {
+                "EnName": "Ethiopia",
+                "RuName": "Эфиопия",
+                "TrName": "Etiyopya"
+            },
+            "Capital": {
+                "EnName": "Addis Ababa",
+                "RuName": "Аддис-Абеба",
+                "TrName": "Addis Ababa"
+            },
+            "Currency": {
+                "Symbol": "Br",
+                "EnName": "Birr",
+                "RuName": "Быр",
+                "TrName": "Birr"
+            },
+            "Language": "Amharic"
+        },
+        {
+            "Id": 56,
+            "Name": {
+                "EnName": "Federated States of Micronesia",
+                "RuName": "Федеративные Штаты Микронезии",
+                "TrName": "Mikronezya Federal Devletleri"
+            },
+            "Capital": {
+                "EnName": "Palikir",
+                "RuName": "Паликир",
+                "TrName": "Palikir"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "United States dollar",
+                "RuName": "Доллар США",
+                "TrName": "Amerikan doları"
+            },
+            "Language": "English"
+        },
+        {
+            "Id": 57,
+            "Name": {
+                "EnName": "Finland",
+                "RuName": "Финляндия",
+                "TrName": "Finlandiya"
+            },
+            "Capital": {
+                "EnName": "Helsinki",
+                "RuName": "Хельсинки",
+                "TrName": "Helsinki"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            },
+            "Language": "Finnish, Swedish"
+        },
+        {
+            "Id": 58,
+            "Name": {
+                "EnName": "France",
+                "RuName": "Франция",
+                "TrName": "Fransa"
+            },
+            "Capital": {
+                "EnName": "Paris",
+                "RuName": "Париж",
+                "TrName": "Paris"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            },
+            "Language": "French"
+        },
+        {
+            "Id": 59,
+            "Name": {
+                "EnName": "Gabon",
+                "RuName": "Габон",
+                "TrName": "Gabon"
+            },
+            "Capital": {
+                "EnName": "Libreville",
+                "RuName": "Либревиль",
+                "TrName": "Libreville"
+            },
+            "Currency": {
+                "Symbol": "FCFA",
+                "EnName": "Central African CFA franc",
+                "RuName": "Центральноафриканский франк КФА",
+                "TrName": "Orta Afrika CFA frangı"
+            },
+            "Language": "French"
+        },
+        {
+            "Id": 60,
+            "Name": {
+                "EnName": "Georgia",
+                "RuName": "Грузия",
+                "TrName": "Gürcistan"
+            },
+            "Capital": {
+                "EnName": "Tbilisi",
+                "RuName": "Тбилиси",
+                "TrName": "Tiflis"
+            },
+            "Currency": {
+                "Symbol": "₾",
+                "EnName": "Georgian lari",
+                "RuName": "Грузинский лари",
+                "TrName": "Gürcü lari"
+            },
+            "Language": "Georgian"
+        },
+        {
+            "Id": 61,
+            "Name": {
+                "EnName": "Germany",
+                "RuName": "Германия",
+                "TrName": "Almanya"
+            },
+            "Capital": {
+                "EnName": "Berlin",
+                "RuName": "Берлин",
+                "TrName": "Berlin"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 62,
+            "Name": {
+                "EnName": "Ghana",
+                "RuName": "Гана",
+                "TrName": "Gana"
+            },
+            "Capital": {
+                "EnName": "Accra",
+                "RuName": "Аккра",
+                "TrName": "Akra"
+            },
+            "Currency": {
+                "Symbol": "₵",
+                "EnName": "Ghanaian cedi",
+                "RuName": "Ганский седи",
+                "TrName": "Gana sedisi"
+            }
+        },
+        {
+            "Id": 63,
+            "Name": {
+                "EnName": "Greece",
+                "RuName": "Греция",
+                "TrName": "Yunanistan"
+            },
+            "Capital": {
+                "EnName": "Athens",
+                "RuName": "Афины",
+                "TrName": "Atina"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 64,
+            "Name": {
+                "EnName": "Grenada",
+                "RuName": "Гренада",
+                "TrName": "Grenada"
+            },
+            "Capital": {
+                "EnName": "St. George's",
+                "RuName": "Сент-Джорджес",
+                "TrName": "Saint George's"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "East Caribbean dollar",
+                "RuName": "Восточно-карибский доллар",
+                "TrName": "Doğu Karayip doları"
+            }
+        },
+        {
+            "Id": 65,
+            "Name": {
+                "EnName": "Guatemala",
+                "RuName": "Гватемала",
+                "TrName": "Guatemala"
+            },
+            "Capital": {
+                "EnName": "Guatemala City",
+                "RuName": "Гватемала",
+                "TrName": "Guatemala"
+            },
+            "Currency": {
+                "Symbol": "Q",
+                "EnName": "Guatemalan quetzal",
+                "RuName": "Гватемальский кетсаль",
+                "TrName": "Guatemala ketzali"
+            }
+        },
+        {
+            "Id": 66,
+            "Name": {
+                "EnName": "Guinea-Bissau",
+                "RuName": "Гвинея-Бисау",
+                "TrName": "Gine-Bissau"
+            },
+            "Capital": {
+                "EnName": "Bissau",
+                "RuName": "Бисау",
+                "TrName": "Bissau"
+            },
+            "Currency": {
+                "Symbol": "CFA",
+                "EnName": "West African CFA franc",
+                "RuName": "Западноафриканский франк КФА",
+                "TrName": "Batı Afrika CFA frangı"
+            }
+        },
+        {
+            "Id": 67,
+            "Name": {
+                "EnName": "Guinea",
+                "RuName": "Гвинея",
+                "TrName": "Gine"
+            },
+            "Capital": {
+                "EnName": "Conakry",
+                "RuName": "Конакри",
+                "TrName": "Konakri"
+            },
+            "Currency": {
+                "Symbol": "FG",
+                "EnName": "Guinean franc",
+                "RuName": "Гвинейский франк",
+                "TrName": "Gine frangı"
+            }
+        },
+        {
+            "Id": 68,
+            "Name": {
+                "EnName": "Guyana",
+                "RuName": "Гайана",
+                "TrName": "Guyana"
+            },
+            "Capital": {
+                "EnName": "Georgetown",
+                "RuName": "Джорджтаун",
+                "TrName": "Georgetown"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "Guyanese dollar",
+                "RuName": "Гайанский доллар",
+                "TrName": "Guyana doları"
+            }
+        },
+        {
+            "Id": 69,
+            "Name": {
+                "EnName": "Haiti",
+                "RuName": "Гаити",
+                "TrName": "Haiti"
+            },
+            "Capital": {
+                "EnName": "Port-au-Prince",
+                "RuName": "Порт-о-Пренс",
+                "TrName": "Port-au-Prince"
+            },
+            "Currency": {
+                "Symbol": "G",
+                "EnName": "Haitian gourde",
+                "RuName": "Гаитянский гурд",
+                "TrName": "Haiti gourdesi"
+            }
+        },
+        {
+            "Id": 70,
+            "Name": {
+                "EnName": "Honduras",
+                "RuName": "Гондурас",
+                "TrName": "Honduras"
+            },
+            "Capital": {
+                "EnName": "Tegucigalpa",
+                "RuName": "Тегусигальпа",
+                "TrName": "Tegucigalpa"
+            },
+            "Currency": {
+                "Symbol": "L",
+                "EnName": "Honduran lempira",
+                "RuName": "Гондурасская лемпира",
+                "TrName": "Honduras lempirası"
+            }
+        },
+        {
+            "Id": 71,
+            "Name": {
+                "EnName": "Hungary",
+                "RuName": "Венгрия",
+                "TrName": "Macaristan"
+            },
+            "Capital": {
+                "EnName": "Budapest",
+                "RuName": "Будапешт",
+                "TrName": "Budapeşte"
+            },
+            "Currency": {
+                "Symbol": "Ft",
+                "EnName": "Forint",
+                "RuName": "Форинт",
+                "TrName": "Forint"
+            }
+        },
+        {
+            "Id": 72,
+            "Name": {
+                "EnName": "Iceland",
+                "RuName": "Исландия",
+                "TrName": "İzlanda"
+            },
+            "Capital": {
+                "EnName": "Reykjavik",
+                "RuName": "Рейкьявик",
+                "TrName": "Reykjavik"
+            },
+            "Currency": {
+                "Symbol": "kr",
+                "EnName": "Icelandic króna",
+                "RuName": "Исландская крона",
+                "TrName": "İzlanda kronu"
+            }
+        },
+        {
+            "Id": 73,
+            "Name": {
+                "EnName": "India",
+                "RuName": "Индия",
+                "TrName": "Hindistan"
+            },
+            "Capital": {
+                "EnName": "New Delhi",
+                "RuName": "Нью-Дели",
+                "TrName": "Yeni Delhi"
+            },
+            "Currency": {
+                "Symbol": "₹",
+                "EnName": "Indian rupee",
+                "RuName": "Индийская рупия",
+                "TrName": "Hindistan rupisi"
+            }
+        },
+        {
+            "Id": 74,
+            "Name": {
+                "EnName": "Indonesia",
+                "RuName": "Индонезия",
+                "TrName": "Endonezya"
+            },
+            "Capital": {
+                "EnName": "Jakarta",
+                "RuName": "Джакарта",
+                "TrName": "Cakarta"
+            },
+            "Currency": {
+                "Symbol": "Rp",
+                "EnName": "Indonesian rupiah",
+                "RuName": "Индонезийская рупия",
+                "TrName": "Endonezya rupisi"
+            }
+        },
+        {
+            "Id": 75,
+            "Name": {
+                "EnName": "Iran",
+                "RuName": "Иран",
+                "TrName": "İran"
+            },
+            "Capital": {
+                "EnName": "Tehran",
+                "RuName": "Тегеран",
+                "TrName": "Tahran"
+            },
+            "Currency": {
+                "Symbol": "﷼",
+                "EnName": "Iranian rial",
+                "RuName": "Иранский риал",
+                "TrName": "İran riyali"
+            }
+        },
+        {
+            "Id": 76,
+            "Name": {
+                "EnName": "Iraq",
+                "RuName": "Ирак",
+                "TrName": "Irak"
+            },
+            "Capital": {
+                "EnName": "Baghdad",
+                "RuName": "Багдад",
+                "TrName": "Bağdat"
+            },
+            "Currency": {
+                "Symbol": "ع.د",
+                "EnName": "Iraqi dinar",
+                "RuName": "Иракский динар",
+                "TrName": "Irak dinarı"
+            }
+        },
+        {
+            "Id": 77,
+            "Name": {
+                "EnName": "Ireland",
+                "RuName": "Ирландия",
+                "TrName": "İrlanda"
+            },
+            "Capital": {
+                "EnName": "Dublin",
+                "RuName": "Дублин",
+                "TrName": "Dublin"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 78,
+            "Name": {
+                "EnName": "Israel",
+                "RuName": "Израиль",
+                "TrName": "İsrail"
+            },
+            "Capital": {
+                "EnName": "Jerusalem",
+                "RuName": "Иерусалим",
+                "TrName": "Kudüs"
+            },
+            "Currency": {
+                "Symbol": "₪",
+                "EnName": "Israeli new shekel",
+                "RuName": "Израильский новый шекель",
+                "TrName": "Yeni İsrail şekeli"
+            }
+        },
+        {
+            "Id": 79,
+            "Name": {
+                "EnName": "Italy",
+                "RuName": "Италия",
+                "TrName": "İtalya"
+            },
+            "Capital": {
+                "EnName": "Rome",
+                "RuName": "Рим",
+                "TrName": "Roma"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 80,
+            "Name": {
+                "EnName": "Ivory Coast",
+                "RuName": "Кот-д'Ивуар",
+                "TrName": "Fildişi Sahili"
+            },
+            "Capital": {
+                "EnName": "Yamoussoukro",
+                "RuName": "Ямусукро",
+                "TrName": "Yamusukro"
+            },
+            "Currency": {
+                "Symbol": "CFA",
+                "EnName": "West African CFA franc",
+                "RuName": "Западноафриканский франк КФА",
+                "TrName": "Batı Afrika CFA frangı"
+            }
+        },
+        {
+            "Id": 81,
+            "Name": {
+                "EnName": "Jamaica",
+                "RuName": "Ямайка",
+                "TrName": "Jamaika"
+            },
+            "Capital": {
+                "EnName": "Kingston",
+                "RuName": "Кингстон",
+                "TrName": "Kingston"
+            },
+            "Currency": {
+                "Symbol": "J$",
+                "EnName": "Jamaican dollar",
+                "RuName": "Ямайский доллар",
+                "TrName": "Jamaika doları"
+            },
+            "Language": "English"
+        },
+        {
+            "Id": 82,
+            "Name": {
+                "EnName": "Japan",
+                "RuName": "Япония",
+                "TrName": "Japonya"
+            },
+            "Capital": {
+                "EnName": "Tokyo",
+                "RuName": "Токио",
+                "TrName": "Tokyo"
+            },
+            "Currency": {
+                "Symbol": "¥",
+                "EnName": "Japanese yen",
+                "RuName": "Японская иена",
+                "TrName": "Japon yeni"
+            },
+            "Language": "Japanese"
+        },
+        {
+            "Id": 83,
+            "Name": {
+                "EnName": "Jordan",
+                "RuName": "Иордания",
+                "TrName": "Ürdün"
+            },
+            "Capital": {
+                "EnName": "Amman",
+                "RuName": "Амман",
+                "TrName": "Amman"
+            },
+            "Currency": {
+                "Symbol": "JD",
+                "EnName": "Jordanian dinar",
+                "RuName": "Иорданский динар",
+                "TrName": "Ürdün dinarı"
+            },
+            "Language": "Arabic"
+        },
+        {
+            "Id": 84,
+            "Name": {
+                "EnName": "Kazakhstan",
+                "RuName": "Казахстан",
+                "TrName": "Kazakistan"
+            },
+            "Capital": {
+                "EnName": "Astana",
+                "RuName": "Астана",
+                "TrName": "Astana"
+            },
+            "Currency": {
+                "Symbol": "₸",
+                "EnName": "Kazakhstani tenge",
+                "RuName": "Казахстанский тенге",
+                "TrName": "Kazakistan tengesi"
+            },
+            "Language": "Kazakh, Russian"
+        },
+        {
+            "Id": 85,
+            "Name": {
+                "EnName": "Kenya",
+                "RuName": "Кения",
+                "TrName": "Kenya"
+            },
+            "Capital": {
+                "EnName": "Nairobi",
+                "RuName": "Найроби",
+                "TrName": "Nairobi"
+            },
+            "Currency": {
+                "Symbol": "KSh",
+                "EnName": "Kenyan shilling",
+                "RuName": "Кенийский шиллинг",
+                "TrName": "Kenya şilini"
+            },
+            "Language": "Swahili, English"
+        },
+        {
+            "Id": 86,
+            "Name": {
+                "EnName": "Kiribati",
+                "RuName": "Кирибати",
+                "TrName": "Kiribati"
+            },
+            "Capital": {
+                "EnName": "South Tarawa",
+                "RuName": "Южная Тарава",
+                "TrName": "Güney Tarawa"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "Kiribati dollar, Australian dollar",
+                "RuName": "Доллар Кирибати, Австралийский доллар",
+                "TrName": "Kiribati doları, Avustralya doları"
+            },
+            "Language": "English, Gilbertese"
+        },
+        {
+            "Id": 87,
+            "Name": {
+                "EnName": "Kuwait",
+                "RuName": "Кувейт",
+                "TrName": "Kuveyt"
+            },
+            "Capital": {
+                "EnName": "Kuwait City",
+                "RuName": "Кувейт",
+                "TrName": "Kuveyt"
+            },
+            "Currency": {
+                "Symbol": "KD",
+                "EnName": "Kuwaiti dinar",
+                "RuName": "Кувейтский динар",
+                "TrName": "Kuveyt dinarı"
+            },
+            "Language": "Arabic"
+        },
+        {
+            "Id": 88,
+            "Name": {
+                "EnName": "Kyrgyzstan",
+                "RuName": "Кыргызстан",
+                "TrName": "Kırgızistan"
+            },
+            "Capital": {
+                "EnName": "Bishkek",
+                "RuName": "Бишкек",
+                "TrName": "Bişkek"
+            },
+            "Currency": {
+                "Symbol": "с",
+                "EnName": "Kyrgyzstani som",
+                "RuName": "Киргизский сом",
+                "TrName": "Kırgızistan somu"
+            },
+            "Language": "Kyrgyz, Russian"
+        },
+        {
+            "Id": 89,
+            "Name": {
+                "EnName": "Laos",
+                "RuName": "Лаос",
+                "TrName": "Laos"
+            },
+            "Capital": {
+                "EnName": "Vientiane",
+                "RuName": "Вьентьян",
+                "TrName": "Vientiane"
+            },
+            "Currency": {
+                "Symbol": "₭",
+                "EnName": "Lao kip",
+                "RuName": "Лаосский кип",
+                "TrName": "Laos kipi"
+            },
+            "Language": "Lao"
+        },
+        {
+            "Id": 90,
+            "Name": {
+                "EnName": "Latvia",
+                "RuName": "Латвия",
+                "TrName": "Letonya"
+            },
+            "Capital": {
+                "EnName": "Riga",
+                "RuName": "Рига",
+                "TrName": "Riga"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            },
+            "Language": "Latvian"
+        },
+        {
+            "Id": 91,
+            "Name": {
+                "EnName": "Lebanon",
+                "RuName": "Ливан",
+                "TrName": "Lübnan"
+            },
+            "Capital": {
+                "EnName": "Beirut",
+                "RuName": "Бейрут",
+                "TrName": "Beyrut"
+            },
+            "Currency": {
+                "Symbol": "ل.ل",
+                "EnName": "Lebanese pound",
+                "RuName": "Ливанский фунт",
+                "TrName": "Lübnan lirası"
+            },
+            "Language": "Arabic"
+        },
+        {
+            "Id": 92,
+            "Name": {
+                "EnName": "Lesotho",
+                "RuName": "Лесото",
+                "TrName": "Lesotho"
+            },
+            "Capital": {
+                "EnName": "Maseru",
+                "RuName": "Масеру",
+                "TrName": "Maseru"
+            },
+            "Currency": {
+                "Symbol": "L",
+                "EnName": "Lesotho loti",
+                "RuName": "Лоти Лесото",
+                "TrName": "Lesotho lotisi"
+            },
+            "Language": "Sesotho, English"
+        },
+        {
+            "Id": 93,
+            "Name": {
+                "EnName": "Liberia",
+                "RuName": "Либерия",
+                "TrName": "Liberya"
+            },
+            "Capital": {
+                "EnName": "Monrovia",
+                "RuName": "Монровия",
+                "TrName": "Monrovia"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "Liberian dollar",
+                "RuName": "Либерийский доллар",
+                "TrName": "Liberya doları"
+            },
+            "Language": "English"
+        },
+        {
+            "Id": 94,
+            "Name": {
+                "EnName": "Libya",
+                "RuName": "Ливия",
+                "TrName": "Libya"
+            },
+            "Capital": {
+                "EnName": "Tripoli",
+                "RuName": "Триполи",
+                "TrName": "Trablus"
+            },
+            "Currency": {
+                "Symbol": "ل.د",
+                "EnName": "Libyan dinar",
+                "RuName": "Ливийский динар",
+                "TrName": "Libya dinarı"
+            },
+            "Language": "Arabic"
+        },
+        {
+            "Id": 95,
+            "Name": {
+                "EnName": "Liechtenstein",
+                "RuName": "Лихтенштейн",
+                "TrName": "Lihtenştayn"
+            },
+            "Capital": {
+                "EnName": "Vaduz",
+                "RuName": "Вадуц",
+                "TrName": "Vaduz"
+            },
+            "Currency": {
+                "Symbol": "CHF",
+                "EnName": "Swiss franc",
+                "RuName": "Швейцарский франк",
+                "TrName": "İsviçre frangı"
+            },
+            "Language": "German"
+        },
+        {
+            "Id": 96,
+            "Name": {
+                "EnName": "Lithuania",
+                "RuName": "Литва",
+                "TrName": "Litvanya"
+            },
+            "Capital": {
+                "EnName": "Vilnius",
+                "RuName": "Вильнюс",
+                "TrName": "Vilnius"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            },
+            "Language": "Lithuanian"
+        },
+        {
+            "Id": 97,
+            "Name": {
+                "EnName": "Luxembourg",
+                "RuName": "Люксембург",
+                "TrName": "Lüksemburg"
+            },
+            "Capital": {
+                "EnName": "Luxembourg City",
+                "RuName": "Люксембург",
+                "TrName": "Lüksemburg"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            },
+            "Language": "Luxembourgish, French, German"
+        },
+        {
+            "Id": 98,
+            "Name": {
+                "EnName": "Madagascar",
+                "RuName": "Мадагаскар",
+                "TrName": "Madagaskar"
+            },
+            "Capital": {
+                "EnName": "Antananarivo",
+                "RuName": "Антананариву",
+                "TrName": "Antananarivo"
+            },
+            "Currency": {
+                "Symbol": "Ar",
+                "EnName": "Malagasy ariary",
+                "RuName": "Малагасийский ариари",
+                "TrName": "Madagaskar ariarisi"
+            },
+            "Language": "Malagasy, French"
+        },
+        {
+            "Id": 99,
+            "Name": {
+                "EnName": "Malawi",
+                "RuName": "Малави",
+                "TrName": "Malavi"
+            },
+            "Capital": {
+                "EnName": "Lilongwe",
+                "RuName": "Лилонгве",
+                "TrName": "Lilongwe"
+            },
+            "Currency": {
+                "Symbol": "MK",
+                "EnName": "Malawian kwacha",
+                "RuName": "Малавийская квача",
+                "TrName": "Malavi kvaçası"
+            },
+            "Language": "English, Chichewa"
+        },
+        {
+            "Id": 100,
+            "Name": {
+                "EnName": "Malaysia",
+                "RuName": "Малайзия",
+                "TrName": "Malezya"
+            },
+            "Capital": {
+                "EnName": "Kuala Lumpur",
+                "RuName": "Куала-Лумпур",
+                "TrName": "Kuala Lumpur"
+            },
+            "Currency": {
+                "Symbol": "RM",
+                "EnName": "Malaysian ringgit",
+                "RuName": "Малайзийский ринггит",
+                "TrName": "Malezya ringgiti"
+            },
+            "Language": "Malay"
+        },
+        {
+            "Id": 101,
+            "Name": {
+                "EnName": "Maldives",
+                "RuName": "Мальдивы",
+                "TrName": "Maldivler"
+            },
+            "Capital": {
+                "EnName": "Malé",
+                "RuName": "Мале",
+                "TrName": "Malé"
+            },
+            "Currency": {
+                "Symbol": "Rf",
+                "EnName": "Maldivian rufiyaa",
+                "RuName": "Мальдивская руфия",
+                "TrName": "Maldiv rufiyaası"
+            },
+            "Language": "Dhivehi"
+        },
+        {
+            "Id": 102,
+            "Name": {
+                "EnName": "Mali",
+                "RuName": "Мали",
+                "TrName": "Mali"
+            },
+            "Capital": {
+                "EnName": "Bamako",
+                "RuName": "Бамако",
+                "TrName": "Bamako"
+            },
+            "Currency": {
+                "Symbol": "CFA",
+                "EnName": "West African CFA franc",
+                "RuName": "Западноафриканский франк КФА",
+                "TrName": "Batı Afrika CFA frangı"
+            },
+            "Language": "French"
+        },
+        {
+            "Id": 103,
+            "Name": {
+                "EnName": "Malta",
+                "RuName": "Мальта",
+                "TrName": "Malta"
+            },
+            "Capital": {
+                "EnName": "Valletta",
+                "RuName": "Валлетта",
+                "TrName": "Valletta"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            },
+            "Language": "Maltese, English"
+        },
+        {
+            "Id": 104,
+            "Name": {
+                "EnName": "Marshall Islands",
+                "RuName": "Маршалловы Острова",
+                "TrName": "Marshall Adaları"
+            },
+            "Capital": {
+                "EnName": "Majuro",
+                "RuName": "Маджуро",
+                "TrName": "Majuro"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "United States dollar",
+                "RuName": "Доллар США",
+                "TrName": "Amerikan doları"
+            },
+            "Language": "Marshallese, English"
+        },
+        {
+            "Id": 105,
+            "Name": {
+                "EnName": "Mauritania",
+                "RuName": "Мавритания",
+                "TrName": "Moritanya"
+            },
+            "Capital": {
+                "EnName": "Nouakchott",
+                "RuName": "Нуакшот",
+                "TrName": "Nuakşot"
+            },
+            "Currency": {
+                "Symbol": "UM",
+                "EnName": "Mauritanian ouguiya",
+                "RuName": "Мавританская угия",
+                "TrName": "Moritanya ugiyası"
+            },
+            "Language": "Arabic"
+        },
+        {
+            "Id": 106,
+            "Name": {
+                "EnName": "Mauritius",
+                "RuName": "Маврикий",
+                "TrName": "Mauritius"
+            },
+            "Capital": {
+                "EnName": "Port Louis",
+                "RuName": "Порт-Луи",
+                "TrName": "Port Louis"
+            },
+            "Currency": {
+                "Symbol": "₨",
+                "EnName": "Mauritian rupee",
+                "RuName": "Маврикийская рупия",
+                "TrName": "Mauritius rupisi"
+            },
+            "Language": "English"
+        },
+        {
+            "Id": 107,
+            "Name": {
+                "EnName": "Mexico",
+                "RuName": "Мексика",
+                "TrName": "Meksika"
+            },
+            "Capital": {
+                "EnName": "Mexico City",
+                "RuName": "Мехико",
+                "TrName": "Meksiko Şehri"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "Mexican peso",
+                "RuName": "Мексиканское песо",
+                "TrName": "Meksika pesosu"
+            },
+            "Language": "Spanish"
+        },
+        {
+            "Id": 108,
+            "Name": {
+                "EnName": "Moldova",
+                "RuName": "Молдова",
+                "TrName": "Moldova"
+            },
+            "Capital": {
+                "EnName": "Chișinău",
+                "RuName": "Кишинёв",
+                "TrName": "Kişinev"
+            },
+            "Currency": {
+                "Symbol": "L",
+                "EnName": "Moldovan leu",
+                "RuName": "Молдавский лей",
+                "TrName": "Moldova leyi"
+            },
+            "Language": "Romanian"
+        },
+        {
+            "Id": 109,
+            "Name": {
+                "EnName": "Monaco",
+                "RuName": "Монако",
+                "TrName": "Monako"
+            },
+            "Capital": {
+                "EnName": "Monaco",
+                "RuName": "Монако",
+                "TrName": "Monako"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            },
+            "Language": "French"
+        },
+        {
+            "Id": 110,
+            "Name": {
+                "EnName": "Mongolia",
+                "RuName": "Монголия",
+                "TrName": "Moğolistan"
+            },
+            "Capital": {
+                "EnName": "Ulaanbaatar",
+                "RuName": "Улан-Батор",
+                "TrName": "Ulan Batur"
+            },
+            "Currency": {
+                "Symbol": "₮",
+                "EnName": "Mongolian tögrög",
+                "RuName": "Монгольский тугрик",
+                "TrName": "Moğolistan tügriği"
+            },
+            "Language": "Mongolian"
+        },
+        {
+            "Id": 111,
+            "Name": {
+                "EnName": "Montenegro",
+                "RuName": "Черногория",
+                "TrName": "Karadağ"
+            },
+            "Capital": {
+                "EnName": "Podgorica",
+                "RuName": "Подгорица",
+                "TrName": "Podgoritsa"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 112,
+            "Name": {
+                "EnName": "Morocco",
+                "RuName": "Марокко",
+                "TrName": "Fas"
+            },
+            "Capital": {
+                "EnName": "Rabat",
+                "RuName": "Рабат",
+                "TrName": "Rabat"
+            },
+            "Currency": {
+                "Symbol": "MAD",
+                "EnName": "Moroccan dirham",
+                "RuName": "Марокканский дирхам",
+                "TrName": "Fas dirhemi"
+            }
+        },
+        {
+            "Id": 113,
+            "Name": {
+                "EnName": "Mozambique",
+                "RuName": "Мозамбик",
+                "TrName": "Mozambik"
+            },
+            "Capital": {
+                "EnName": "Maputo",
+                "RuName": "Мапуту",
+                "TrName": "Maputo"
+            },
+            "Currency": {
+                "Symbol": "MT",
+                "EnName": "Mozambican metical",
+                "RuName": "Мозамбикский метикал",
+                "TrName": "Mozambik metikali"
+            }
+        },
+        {
+            "Id": 114,
+            "Name": {
+                "EnName": "Myanmar",
+                "RuName": "Мьянма",
+                "TrName": "Myanmar"
+            },
+            "Capital": {
+                "EnName": "Naypyidaw",
+                "RuName": "Нейпьидо",
+                "TrName": "Naypyidaw"
+            },
+            "Currency": {
+                "Symbol": "MMK",
+                "EnName": "Burmese kyat",
+                "RuName": "Мьянманский кьят",
+                "TrName": "Myanmar kyatı"
+            }
+        },
+        {
+            "Id": 115,
+            "Name": {
+                "EnName": "Namibia",
+                "RuName": "Намибия",
+                "TrName": "Namibya"
+            },
+            "Capital": {
+                "EnName": "Windhoek",
+                "RuName": "Виндхук",
+                "TrName": "Windhoek"
+            },
+            "Currency": {
+                "Symbol": "N$",
+                "EnName": "Namibian dollar",
+                "RuName": "Намибийский доллар",
+                "TrName": "Namibya doları"
+            }
+        },
+        {
+            "Id": 116,
+            "Name": {
+                "EnName": "Nauru",
+                "RuName": "Науру",
+                "TrName": "Nauru"
+            },
+            "Capital": {
+                "EnName": "Yaren",
+                "RuName": "Ярен",
+                "TrName": "Yaren"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "Australian dollar",
+                "RuName": "Австралийский доллар",
+                "TrName": "Avustralya doları"
+            }
+        },
+        {
+            "Id": 117,
+            "Name": {
+                "EnName": "Nepal",
+                "RuName": "Непал",
+                "TrName": "Nepal"
+            },
+            "Capital": {
+                "EnName": "Kathmandu",
+                "RuName": "Катманду",
+                "TrName": "Katmandu"
+            },
+            "Currency": {
+                "Symbol": "₨",
+                "EnName": "Nepalese rupee",
+                "RuName": "Непальская рупия",
+                "TrName": "Nepal rupisi"
+            }
+        },
+        {
+            "Id": 118,
+            "Name": {
+                "EnName": "Netherlands",
+                "RuName": "Нидерланды",
+                "TrName": "Hollanda"
+            },
+            "Capital": {
+                "EnName": "Amsterdam",
+                "RuName": "Амстердам",
+                "TrName": "Amsterdam"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 119,
+            "Name": {
+                "EnName": "New Zealand",
+                "RuName": "Новая Зеландия",
+                "TrName": "Yeni Zelanda"
+            },
+            "Capital": {
+                "EnName": "Wellington",
+                "RuName": "Веллингтон",
+                "TrName": "Wellington"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "New Zealand dollar",
+                "RuName": "Новозеландский доллар",
+                "TrName": "Yeni Zelanda doları"
+            }
+        },
+        {
+            "Id": 120,
+            "Name": {
+                "EnName": "Nicaragua",
+                "RuName": "Никарагуа",
+                "TrName": "Nikaragua"
+            },
+            "Capital": {
+                "EnName": "Managua",
+                "RuName": "Манагуа",
+                "TrName": "Managua"
+            },
+            "Currency": {
+                "Symbol": "C$",
+                "EnName": "Nicaraguan córdoba",
+                "RuName": "Никарагуанская кордоба",
+                "TrName": "Nikaragua kordobası"
+            }
+        },
+        {
+            "Id": 121,
+            "Name": {
+                "EnName": "Niger",
+                "RuName": "Нигер",
+                "TrName": "Nijer"
+            },
+            "Capital": {
+                "EnName": "Niamey",
+                "RuName": "Ниамей",
+                "TrName": "Niamey"
+            },
+            "Currency": {
+                "Symbol": "CFA",
+                "EnName": "West African CFA franc",
+                "RuName": "Западноафриканский франк CFA",
+                "TrName": "Batı Afrika CFA frangı"
+            }
+        },
+        {
+            "Id": 122,
+            "Name": {
+                "EnName": "Nigeria",
+                "RuName": "Нигерия",
+                "TrName": "Nijerya"
+            },
+            "Capital": {
+                "EnName": "Abuja",
+                "RuName": "Абуджа",
+                "TrName": "Ebuca"
+            },
+            "Currency": {
+                "Symbol": "₦",
+                "EnName": "Naira",
+                "RuName": "Найра",
+                "TrName": "Naira"
+            }
+        },
+        {
+            "Id": 123,
+            "Name": {
+                "EnName": "North Korea",
+                "RuName": "Северная Корея",
+                "TrName": "Kuzey Kore"
+            },
+            "Capital": {
+                "EnName": "Pyongyang",
+                "RuName": "Пхеньян",
+                "TrName": "Pyongyang"
+            },
+            "Currency": {
+                "Symbol": "₩",
+                "EnName": "North Korean won",
+                "RuName": "Северокорейский вон",
+                "TrName": "Kuzey Kore wonu"
+            }
+        },
+        {
+            "Id": 124,
+            "Name": {
+                "EnName": "North Macedonia",
+                "RuName": "Северная Македония",
+                "TrName": "Kuzey Makedonya"
+            },
+            "Capital": {
+                "EnName": "Skopje",
+                "RuName": "Скопье",
+                "TrName": "Üsküp"
+            },
+            "Currency": {
+                "Symbol": "den",
+                "EnName": "Denar",
+                "RuName": "Денар",
+                "TrName": "Denar"
+            }
+        },
+        {
+            "Id": 125,
+            "Name": {
+                "EnName": "Norway",
+                "RuName": "Норвегия",
+                "TrName": "Norveç"
+            },
+            "Capital": {
+                "EnName": "Oslo",
+                "RuName": "Осло",
+                "TrName": "Oslo"
+            },
+            "Currency": {
+                "Symbol": "kr",
+                "EnName": "Norwegian krone",
+                "RuName": "Норвежская крона",
+                "TrName": "Norveç kronu"
+            }
+        },
+        {
+            "Id": 126,
+            "Name": {
+                "EnName": "Oman",
+                "RuName": "Оман",
+                "TrName": "Umman"
+            },
+            "Capital": {
+                "EnName": "Muscat",
+                "RuName": "Маскат",
+                "TrName": "Maskat"
+            },
+            "Currency": {
+                "Symbol": "ر.ع.",
+                "EnName": "Omani rial",
+                "RuName": "Оманский риал",
+                "TrName": "Umman riyali"
+            }
+        },
+        {
+            "Id": 127,
+            "Name": {
+                "EnName": "Pakistan",
+                "RuName": "Пакистан",
+                "TrName": "Pakistan"
+            },
+            "Capital": {
+                "EnName": "Islamabad",
+                "RuName": "Исламабад",
+                "TrName": "İslamabad"
+            },
+            "Currency": {
+                "Symbol": "₨",
+                "EnName": "Pakistani rupee",
+                "RuName": "Пакистанская рупия",
+                "TrName": "Pakistan rupisi"
+            }
+        },
+        {
+            "Id": 128,
+            "Name": {
+                "EnName": "Palau",
+                "RuName": "Палау",
+                "TrName": "Palau"
+            },
+            "Capital": {
+                "EnName": "Ngerulmud",
+                "RuName": "Нгерулмуд",
+                "TrName": "Ngerulmud"
+            },
+            "Currency": {
+                "Symbol": "$",
+                "EnName": "United States dollar",
+                "RuName": "Доллар США",
+                "TrName": "Amerikan doları"
+            }
+        },
+        {
+            "Id": 129,
+            "Name": {
+                "EnName": "Panama",
+                "RuName": "Панама",
+                "TrName": "Panama"
+            },
+            "Capital": {
+                "EnName": "Panama City",
+                "RuName": "Панама",
+                "TrName": "Panama Şehri"
+            },
+            "Currency": {
+                "Symbol": "B/.",
+                "EnName": "Panamanian balboa",
+                "RuName": "Панамское бальбоа",
+                "TrName": "Panama balboası"
+            }
+        },
+        {
+            "Id": 130,
+            "Name": {
+                "EnName": "Papua New Guinea",
+                "RuName": "Папуа - Новая Гвинея",
+                "TrName": "Papua Yeni Gine"
+            },
+            "Capital": {
+                "EnName": "Port Moresby",
+                "RuName": "Порт-Морсби",
+                "TrName": "Port Moresby"
+            },
+            "Currency": {
+                "Symbol": "K",
+                "EnName": "Papua New Guinean kina",
+                "RuName": "Кина Папуа - Новой Гвинеи",
+                "TrName": "Papua Yeni Gine kinası"
+            }
+        },
+        {
+            "Id": 131,
+            "Name": {
+                "EnName": "Paraguay",
+                "RuName": "Парагвай",
+                "TrName": "Paraguay"
+            },
+            "Capital": {
+                "EnName": "Asunción",
+                "RuName": "Асунсьон",
+                "TrName": "Asunción"
+            },
+            "Currency": {
+                "Symbol": "₲",
+                "EnName": "Paraguayan guaraní",
+                "RuName": "Парагвайский гуарани",
+                "TrName": "Paraguay guaranisi"
+            }
+        },
+        {
+            "Id": 132,
+            "Name": {
+                "EnName": "Peru",
+                "RuName": "Перу",
+                "TrName": "Peru"
+            },
+            "Capital": {
+                "EnName": "Lima",
+                "RuName": "Лима",
+                "TrName": "Lima"
+            },
+            "Currency": {
+                "Symbol": "S/.",
+                "EnName": "Peruvian sol",
+                "RuName": "Перуанский соль",
+                "TrName": "Peru solu"
+            }
+        },
+        {
+            "Id": 133,
+            "Name": {
+                "EnName": "Philippines",
+                "RuName": "Филиппины",
+                "TrName": "Filipinler"
+            },
+            "Capital": {
+                "EnName": "Manila",
+                "RuName": "Манила",
+                "TrName": "Manila"
+            },
+            "Currency": {
+                "Symbol": "₱",
+                "EnName": "Philippine peso",
+                "RuName": "Филиппинское песо",
+                "TrName": "Filipin pesosu"
+            }
+        },
+        {
+            "Id": 134,
+            "Name": {
+                "EnName": "Poland",
+                "RuName": "Польша",
+                "TrName": "Polonya"
+            },
+            "Capital": {
+                "EnName": "Warsaw",
+                "RuName": "Варшава",
+                "TrName": "Varşova"
+            },
+            "Currency": {
+                "Symbol": "zł",
+                "EnName": "Polish złoty",
+                "RuName": "Польский злотый",
+                "TrName": "Polonya zlotisi"
+            }
+        },
+        {
+            "Id": 135,
+            "Name": {
+                "EnName": "Portugal",
+                "RuName": "Португалия",
+                "TrName": "Portekiz"
+            },
+            "Capital": {
+                "EnName": "Lisbon",
+                "RuName": "Лиссабон",
+                "TrName": "Lizbon"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 136,
+            "Name": {
+                "EnName": "Qatar",
+                "RuName": "Катар",
+                "TrName": "Katar"
+            },
+            "Capital": {
+                "EnName": "Doha",
+                "RuName": "Доха",
+                "TrName": "Doha"
+            },
+            "Currency": {
+                "Symbol": "QR",
+                "EnName": "Qatari riyal",
+                "RuName": "Катарский риал",
+                "TrName": "Katar riyali"
+            }
+        },
+        {
+            "Id": 137,
+            "Name": {
+                "EnName": "Republic of the Congo",
+                "RuName": "Республика Конго",
+                "TrName": "Kongo Cumhuriyeti"
+            },
+            "Capital": {
+                "EnName": "Brazzaville",
+                "RuName": "Браззавиль",
+                "TrName": "Brazavil"
+            },
+            "Currency": {
+                "Symbol": "CFA",
+                "EnName": "Central African CFA franc",
+                "RuName": "Центральноафриканский франк CFA",
+                "TrName": "Orta Afrika CFA frangı"
+            }
+        },
+        {
+            "Id": 138,
+            "Name": {
+                "EnName": "Romania",
+                "RuName": "Румыния",
+                "TrName": "Romanya"
+            },
+            "Capital": {
+                "EnName": "Bucharest",
+                "RuName": "Бухарест",
+                "TrName": "Bükreş"
+            },
+            "Currency": {
+                "Symbol": "lei",
+                "EnName": "Romanian leu",
+                "RuName": "Румынский лей",
+                "TrName": "Romanya leyi"
+            }
+        },
+        {
+            "Id": 139,
+            "Name": {
+                "EnName": "Russia",
+                "RuName": "Россия",
+                "TrName": "Rusya"
+            },
+            "Capital": {
+                "EnName": "Moscow",
+                "RuName": "Москва",
+                "TrName": "Moskova"
+            },
+            "Currency": {
+                "Symbol": "₽",
+                "EnName": "Russian ruble",
+                "RuName": "Российский рубль",
+                "TrName": "Rus rublesi"
+            }
+        },
+        {
+            "Id": 140,
+            "Name": {
+                "EnName": "Rwanda",
+                "RuName": "Руанда",
+                "TrName": "Ruanda"
+            },
+            "Capital": {
+                "EnName": "Kigali",
+                "RuName": "Кигали",
+                "TrName": "Kigali"
+            },
+            "Currency": {
+                "Symbol": "FRw",
+                "EnName": "Rwandan franc",
+                "RuName": "Руандийский франк",
+                "TrName": "Ruanda frangı"
+            }
+        },
+        {
+            "Id": 141,
+            "Name": {
+                "EnName": "Saint Kitts and Nevis",
+                "RuName": "Сент-Китс и Невис",
+                "TrName": "Saint Kitts ve Nevis"
+            },
+            "Capital": {
+                "EnName": "Basseterre",
+                "RuName": "Бастер",
+                "TrName": "Basseterre"
+            },
+            "Currency": {
+                "Symbol": "EC$",
+                "EnName": "East Caribbean dollar",
+                "RuName": "Восточно-карибский доллар",
+                "TrName": "Doğu Karayip Doları"
+            }
+        },
+        {
+            "Id": 142,
+            "Name": {
+                "EnName": "Saint Lucia",
+                "RuName": "Сент-Люсия",
+                "TrName": "Saint Lucia"
+            },
+            "Capital": {
+                "EnName": "Castries",
+                "RuName": "Кастрис",
+                "TrName": "Castries"
+            },
+            "Currency": {
+                "Symbol": "EC$",
+                "EnName": "East Caribbean dollar",
+                "RuName": "Восточно-карибский доллар",
+                "TrName": "Doğu Karayip Doları"
+            }
+        },
+        {
+            "Id": 143,
+            "Name": {
+                "EnName": "Saint Vincent and the Grenadines",
+                "RuName": "Сент-Винсент и Гренадины",
+                "TrName": "Saint Vincent ve Grenadinler"
+            },
+            "Capital": {
+                "EnName": "Kingstown",
+                "RuName": "Кингстаун",
+                "TrName": "Kingstown"
+            },
+            "Currency": {
+                "Symbol": "EC$",
+                "EnName": "East Caribbean dollar",
+                "RuName": "Восточно-карибский доллар",
+                "TrName": "Doğu Karayip Doları"
+            }
+        },
+        {
+            "Id": 144,
+            "Name": {
+                "EnName": "Samoa",
+                "RuName": "Самоа",
+                "TrName": "Samoa"
+            },
+            "Capital": {
+                "EnName": "Apia",
+                "RuName": "Апиа",
+                "TrName": "Apia"
+            },
+            "Currency": {
+                "Symbol": "WS$",
+                "EnName": "Samoan tālā",
+                "RuName": "Самоанская тала",
+                "TrName": "Samoan tālā"
+            }
+        },
+        {
+            "Id": 145,
+            "Name": {
+                "EnName": "San Marino",
+                "RuName": "Сан-Марино",
+                "TrName": "San Marino"
+            },
+            "Capital": {
+                "EnName": "San Marino",
+                "RuName": "Сан-Марино",
+                "TrName": "San Marino"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 146,
+            "Name": {
+                "EnName": "Saint Thomas and Prince",
+                "RuName": "Сан-Томе и Принсипи",
+                "TrName": "São Tomé ve Príncipe"
+            },
+            "Capital": {
+                "EnName": "São Tomé",
+                "RuName": "Сан-Томе",
+                "TrName": "São Tomé"
+            },
+            "Currency": {
+                "Symbol": "Db",
+                "EnName": "Dobra",
+                "RuName": "Добра",
+                "TrName": "Dobra"
+            }
+        },
+        {
+            "Id": 147,
+            "Name": {
+                "EnName": "Saudi Arabia",
+                "RuName": "Саудовская Аравия",
+                "TrName": "Suudi Arabistan"
+            },
+            "Capital": {
+                "EnName": "Riyadh",
+                "RuName": "Эр-Рияд",
+                "TrName": "Riyad"
+            },
+            "Currency": {
+                "Symbol": "SR",
+                "EnName": "Saudi riyal",
+                "RuName": "Саудовский риял",
+                "TrName": "Suudi riyali"
+            }
+        },
+        {
+            "Id": 148,
+            "Name": {
+                "EnName": "Senegal",
+                "RuName": "Сенегал",
+                "TrName": "Senegal"
+            },
+            "Capital": {
+                "EnName": "Dakar",
+                "RuName": "Дакар",
+                "TrName": "Dakar"
+            },
+            "Currency": {
+                "Symbol": "CFA",
+                "EnName": "West African CFA franc",
+                "RuName": "Западноафриканский франк CFA",
+                "TrName": "Batı Afrika CFA frangı"
+            }
+        },
+        {
+            "Id": 149,
+            "Name": {
+                "EnName": "Serbia",
+                "RuName": "Сербия",
+                "TrName": "Sırbistan"
+            },
+            "Capital": {
+                "EnName": "Belgrade",
+                "RuName": "Белград",
+                "TrName": "Belgrad"
+            },
+            "Currency": {
+                "Symbol": "RSD",
+                "EnName": "Serbian dinar",
+                "RuName": "Сербский динар",
+                "TrName": "Sırp dinarı"
+            }
+        },
+        {
+            "Id": 150,
+            "Name": {
+                "EnName": "Seychelles",
+                "RuName": "Сейшелы",
+                "TrName": "Seyşeller"
+            },
+            "Capital": {
+                "EnName": "Victoria",
+                "RuName": "Виктория",
+                "TrName": "Victoria"
+            },
+            "Currency": {
+                "Symbol": "SCR",
+                "EnName": "Seychellois rupee",
+                "RuName": "Сейшельская рупия",
+                "TrName": "Seyşel rupisi"
+            }
+        },
+        {
+            "Id": 151,
+            "Name": {
+                "EnName": "Sierra Leone",
+                "RuName": "Сьерра-Леоне",
+                "TrName": "Sierra Leone"
+            },
+            "Capital": {
+                "EnName": "Freetown",
+                "RuName": "Фритаун",
+                "TrName": "Freetown"
+            },
+            "Currency": {
+                "Symbol": "Le",
+                "EnName": "Leone",
+                "RuName": "Леоне",
+                "TrName": "Leone"
+            }
+        },
+        {
+            "Id": 152,
+            "Name": {
+                "EnName": "Singapore",
+                "RuName": "Сингапур",
+                "TrName": "Singapur"
+            },
+            "Capital": {
+                "EnName": "Singapore",
+                "RuName": "Сингапур",
+                "TrName": "Singapur"
+            },
+            "Currency": {
+                "Symbol": "S$",
+                "EnName": "Singapore dollar",
+                "RuName": "Сингапурский доллар",
+                "TrName": "Singapur doları"
+            }
+        },
+        {
+            "Id": 153,
+            "Name": {
+                "EnName": "Slovakia",
+                "RuName": "Словакия",
+                "TrName": "Slovakya"
+            },
+            "Capital": {
+                "EnName": "Bratislava",
+                "RuName": "Братислава",
+                "TrName": "Bratislava"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 154,
+            "Name": {
+                "EnName": "Slovenia",
+                "RuName": "Словения",
+                "TrName": "Slovenya"
+            },
+            "Capital": {
+                "EnName": "Ljubljana",
+                "RuName": "Любляна",
+                "TrName": "Ljubljana"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 155,
+            "Name": {
+                "EnName": "Solomon Islands",
+                "RuName": "Соломоновы Острова",
+                "TrName": "Solomon Adaları"
+            },
+            "Capital": {
+                "EnName": "Honiara",
+                "RuName": "Хониара",
+                "TrName": "Honiara"
+            },
+            "Currency": {
+                "Symbol": "SI$",
+                "EnName": "Solomon Islands dollar",
+                "RuName": "Доллар Соломоновых Островов",
+                "TrName": "Solomon Adaları doları"
+            }
+        },
+        {
+            "Id": 156,
+            "Name": {
+                "EnName": "Somalia",
+                "RuName": "Сомали",
+                "TrName": "Somali"
+            },
+            "Capital": {
+                "EnName": "Mogadishu",
+                "RuName": "Могадишо",
+                "TrName": "Mogadişu"
+            },
+            "Currency": {
+                "Symbol": "Sh.So.",
+                "EnName": "Somali shilling",
+                "RuName": "Сомалийский шиллинг",
+                "TrName": "Somali şilini"
+            }
+        },
+        {
+            "Id": 157,
+            "Name": {
+                "EnName": "South Africa",
+                "RuName": "Южная Африка",
+                "TrName": "Güney Afrika"
+            },
+            "Capital": {
+                "EnName": "Pretoria",
+                "RuName": "Претория",
+                "TrName": "Pretoria"
+            },
+            "Currency": {
+                "Symbol": "R",
+                "EnName": "South African rand",
+                "RuName": "Южноафриканский рэнд",
+                "TrName": "Güney Afrika randı"
+            }
+        },
+        {
+            "Id": 158,
+            "Name": {
+                "EnName": "South Korea",
+                "RuName": "Южная Корея",
+                "TrName": "Güney Kore"
+            },
+            "Capital": {
+                "EnName": "Seoul",
+                "RuName": "Сеул",
+                "TrName": "Seul"
+            },
+            "Currency": {
+                "Symbol": "₩",
+                "EnName": "South Korean won",
+                "RuName": "Южнокорейская вона",
+                "TrName": "Güney Kore wonu"
+            }
+        },
+        {
+            "Id": 159,
+            "Name": {
+                "EnName": "South Sudan",
+                "RuName": "Южный Судан",
+                "TrName": "Güney Sudan"
+            },
+            "Capital": {
+                "EnName": "Juba",
+                "RuName": "Джуба",
+                "TrName": "Cuba"
+            },
+            "Currency": {
+                "Symbol": "SSP",
+                "EnName": "South Sudanese pound",
+                "RuName": "Южносуданский фунт",
+                "TrName": "Güney Sudan poundu"
+            }
+        },
+        {
+            "Id": 160,
+            "Name": {
+                "EnName": "Spain",
+                "RuName": "Испания",
+                "TrName": "İspanya"
+            },
+            "Capital": {
+                "EnName": "Madrid",
+                "RuName": "Мадрид",
+                "TrName": "Madrid"
+            },
+            "Currency": {
+                "Symbol": "€",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 161,
+            "Name": {
+                "EnName": "Sri Lanka",
+                "RuName": "Шри-Ланка",
+                "TrName": "Sri Lanka"
+            },
+            "Capital": {
+                "EnName": "Sri Jayawardenepura Kotte",
+                "RuName": "Шри-Джаяварденепура-Котте",
+                "TrName": "Sri Jayawardenepura Kotte"
+            },
+            "Currency": {
+                "Symbol": "Rs",
+                "EnName": "Sri Lankan rupee",
+                "RuName": "Шри-ланкийская рупия",
+                "TrName": "Sri Lanka rupisi"
+            }
+        },
+        {
+            "Id": 162,
+            "Name": {
+                "EnName": "Sudan",
+                "RuName": "Судан",
+                "TrName": "Sudan"
+            },
+            "Capital": {
+                "EnName": "Khartoum",
+                "RuName": "Хартум",
+                "TrName": "Hartum"
+            },
+            "Currency": {
+                "Symbol": "SDG",
+                "EnName": "Sudanese pound",
+                "RuName": "Суданский фунт",
+                "TrName": "Sudan lirası"
+            }
+        },
+        {
+            "Id": 163,
+            "Name": {
+                "EnName": "Suriname",
+                "RuName": "Суринам",
+                "TrName": "Surinam"
+            },
+            "Capital": {
+                "EnName": "Paramaribo",
+                "RuName": "Парамарибо",
+                "TrName": "Paramaribo"
+            },
+            "Currency": {
+                "Symbol": "SRD",
+                "EnName": "Surinamese dollar",
+                "RuName": "Суринамский доллар",
+                "TrName": "Surinam doları"
+            }
+        },
+        {
+            "Id": 164,
+            "Name": {
+                "EnName": "Sweden",
+                "RuName": "Швеция",
+                "TrName": "İsveç"
+            },
+            "Capital": {
+                "EnName": "Stockholm",
+                "RuName": "Стокгольм",
+                "TrName": "Stockholm"
+            },
+            "Currency": {
+                "Symbol": "kr",
+                "EnName": "Swedish krona",
+                "RuName": "Шведская крона",
+                "TrName": "İsveç kronu"
+            }
+        },
+        {
+            "Id": 165,
+            "Name": {
+                "EnName": "Switzerland",
+                "RuName": "Швейцария",
+                "TrName": "İsviçre"
+            },
+            "Capital": {
+                "EnName": "Bern",
+                "RuName": "Берн",
+                "TrName": "Bern"
+            },
+            "Currency": {
+                "Symbol": "CHF",
+                "EnName": "Swiss franc",
+                "RuName": "Швейцарский франк",
+                "TrName": "İsviçre frangı"
+            }
+        },
+        {
+            "Id": 166,
+            "Name": {
+                "EnName": "Syria",
+                "RuName": "Сирия",
+                "TrName": "Suriye"
+            },
+            "Capital": {
+                "EnName": "Damascus",
+                "RuName": "Дамаск",
+                "TrName": "Şam"
+            },
+            "Currency": {
+                "Symbol": "SYP",
+                "EnName": "Syrian pound",
+                "RuName": "Сирийский фунт",
+                "TrName": "Suriye lirası"
+            }
+        },
+        {
+            "Id": 167,
+            "Name": {
+                "EnName": "Tajikistan",
+                "RuName": "Таджикистан",
+                "TrName": "Tacikistan"
+            },
+            "Capital": {
+                "EnName": "Dushanbe",
+                "RuName": "Душанбе",
+                "TrName": "Duşanbe"
+            },
+            "Currency": {
+                "Symbol": "TJS",
+                "EnName": "Tajikistani somoni",
+                "RuName": "Сомони Таджикистана",
+                "TrName": "Tacikistan somonisi"
+            }
+        },
+        {
+            "Id": 168,
+            "Name": {
+                "EnName": "Tanzania",
+                "RuName": "Танзания",
+                "TrName": "Tanzanya"
+            },
+            "Capital": {
+                "EnName": "Dodoma",
+                "RuName": "Додома",
+                "TrName": "Dodoma"
+            },
+            "Currency": {
+                "Symbol": "TZS",
+                "EnName": "Tanzanian shilling",
+                "RuName": "Танзанийский шиллинг",
+                "TrName": "Tanzanya şilini"
+            }
+        },
+        {
+            "Id": 169,
+            "Name": {
+                "EnName": "Thailand",
+                "RuName": "Таиланд",
+                "TrName": "Tayland"
+            },
+            "Capital": {
+                "EnName": "Bangkok",
+                "RuName": "Бангкок",
+                "TrName": "Bangkok"
+            },
+            "Currency": {
+                "Symbol": "THB",
+                "EnName": "Thai baht",
+                "RuName": "Тайский бат",
+                "TrName": "Tayland bahtı"
+            }
+        },
+        {
+            "Id": 170,
+            "Name": {
+                "EnName": "The Gambia",
+                "RuName": "Гамбия",
+                "TrName": "Gambiya"
+            },
+            "Capital": {
+                "EnName": "Banjul",
+                "RuName": "Банжул",
+                "TrName": "Banjul"
+            },
+            "Currency": {
+                "Symbol": "GMD",
+                "EnName": "Gambian dalasi",
+                "RuName": "Гамбийский даласи",
+                "TrName": "Gambiya dalasisi"
+            }
+        },
+        {
+            "Id": 171,
+            "Name": {
+                "EnName": "The Bahamas",
+                "RuName": "Багамские Острова",
+                "TrName": "Bahamalar"
+            },
+            "Capital": {
+                "EnName": "Nassau",
+                "RuName": "Нассау",
+                "TrName": "Nassau"
+            },
+            "Currency": {
+                "Symbol": "B$",
+                "EnName": "Bahamian dollar",
+                "RuName": "Багамский доллар",
+                "TrName": "Bahama doları"
+            }
+        },
+        {
+            "Id": 172,
+            "Name": {
+                "EnName": "Togo",
+                "RuName": "Того",
+                "TrName": "Togo"
+            },
+            "Capital": {
+                "EnName": "Lomé",
+                "RuName": "Ломе",
+                "TrName": "Lome"
+            },
+            "Currency": {
+                "Symbol": "CFA",
+                "EnName": "West African CFA franc",
+                "RuName": "Западноафриканский франк CFA",
+                "TrName": "Batı Afrika CFA frangı"
+            }
+        },
+        {
+            "Id": 173,
+            "Name": {
+                "EnName": "Tonga",
+                "RuName": "Тонга",
+                "TrName": "Tonga"
+            },
+            "Capital": {
+                "EnName": "Nukuʻalofa",
+                "RuName": "Нукуалофа",
+                "TrName": "Nuku'alofa"
+            },
+            "Currency": {
+                "Symbol": "T$",
+                "EnName": "Tongan paʻanga",
+                "RuName": "Тонганская паанга",
+                "TrName": "Tonga paʻangası"
+            }
+        },
+        {
+            "Id": 174,
+            "Name": {
+                "EnName": "Trinidad and Tobago",
+                "RuName": "Тринидад и Тобаго",
+                "TrName": "Trinidad ve Tobago"
+            },
+            "Capital": {
+                "EnName": "Port of Spain",
+                "RuName": "Порт-оф-Спейн",
+                "TrName": "Port of Spain"
+            },
+            "Currency": {
+                "Symbol": "TT$",
+                "EnName": "Trinidad and Tobago dollar",
+                "RuName": "Доллар Тринидада и Тобаго",
+                "TrName": "Trinidad ve Tobago doları"
+            }
+        },
+        {
+            "Id": 175,
+            "Name": {
+                "EnName": "Tunisia",
+                "RuName": "Тунис",
+                "TrName": "Tunus"
+            },
+            "Capital": {
+                "EnName": "Tunis",
+                "RuName": "Тунис",
+                "TrName": "Tunus"
+            },
+            "Currency": {
+                "Symbol": "TND",
+                "EnName": "Tunisian dinar",
+                "RuName": "Тунисский динар",
+                "TrName": "Tunus dinarı"
+            }
+        },
+        {
+            "Id": 176,
+            "Name": {
+                "EnName": "Turkey",
+                "RuName": "Турция",
+                "TrName": "Türkiye"
+            },
+            "Capital": {
+                "EnName": "Ankara",
+                "RuName": "Анкара",
+                "TrName": "Ankara"
+            },
+            "Currency": {
+                "Symbol": "₺",
+                "EnName": "Turkish lira",
+                "RuName": "Турецкая лира",
+                "TrName": "Türk lirası"
+            }
+        },
+        {
+            "Id": 177,
+            "Name": {
+                "EnName": "Turkmenistan",
+                "RuName": "Туркменистан",
+                "TrName": "Türkmenistan"
+            },
+            "Capital": {
+                "EnName": "Ashgabat",
+                "RuName": "Ашхабад",
+                "TrName": "Aşkabat"
+            },
+            "Currency": {
+                "Symbol": "TMT",
+                "EnName": "Turkmenistan manat",
+                "RuName": "Манат Туркменистана",
+                "TrName": "Türkmenistan manatı"
+            }
+        },
+        {
+            "Id": 178,
+            "Name": {
+                "EnName": "Tuvalu",
+                "RuName": "Тувалу",
+                "TrName": "Tuvalu"
+            },
+            "Capital": {
+                "EnName": "Funafuti",
+                "RuName": "Фунафути",
+                "TrName": "Funafuti"
+            },
+            "Currency": {
+                "Symbol": "TV$",
+                "EnName": "Tuvaluan dollar",
+                "RuName": "Доллар Тувалу",
+                "TrName": "Tuvalu doları"
+            }
+        },
+        {
+            "Id": 179,
+            "Name": {
+                "EnName": "Uganda",
+                "RuName": "Уганда",
+                "TrName": "Uganda"
+            },
+            "Capital": {
+                "EnName": "Kampala",
+                "RuName": "Кампала",
+                "TrName": "Kampala"
+            },
+            "Currency": {
+                "Symbol": "USh",
+                "EnName": "Ugandan shilling",
+                "RuName": "Угандийский шиллинг",
+                "TrName": "Uganda şilini"
+            }
+        },
+        {
+            "Id": 180,
+            "Name": {
+                "EnName": "Ukraine",
+                "RuName": "Украина",
+                "TrName": "Ukrayna"
+            },
+            "Capital": {
+                "EnName": "Kyiv",
+                "RuName": "Киев",
+                "TrName": "Kiev"
+            },
+            "Currency": {
+                "Symbol": "₴",
+                "EnName": "Ukrainian hryvnia",
+                "RuName": "Украинская гривна",
+                "TrName": "Ukrayna grivnası"
+            }
+        },
+        {
+            "Id": 181,
+            "Name": {
+                "EnName": "United Arab Emirates",
+                "RuName": "Объединенные Арабские Эмираты",
+                "TrName": "Birleşik Arap Emirlikleri"
+            },
+            "Capital": {
+                "EnName": "Abu Dhabi",
+                "RuName": "Абу-Даби",
+                "TrName": "Abu Dabi"
+            },
+            "Currency": {
+                "Symbol": "AED",
+                "EnName": "Emirati dirham",
+                "RuName": "Дирхам ОАЭ",
+                "TrName": "Birleşik Arap Dirhemi"
+            }
+        },
+        {
+            "Id": 182,
+            "Name": {
+                "EnName": "United Kingdom",
+                "RuName": "Великобритания",
+                "TrName": "Birleşik Krallık"
+            },
+            "Capital": {
+                "EnName": "London",
+                "RuName": "Лондон",
+                "TrName": "Londra"
+            },
+            "Currency": {
+                "Symbol": "GBP",
+                "EnName": "British pound",
+                "RuName": "Британский фунт",
+                "TrName": "İngiliz Sterlini"
+            }
+        },
+        {
+            "Id": 183,
+            "Name": {
+                "EnName": "United States",
+                "RuName": "Соединенные Штаты",
+                "TrName": "Amerika Birleşik Devletleri"
+            },
+            "Capital": {
+                "EnName": "Washington, D.C.",
+                "RuName": "Вашингтон, округ Колумбия",
+                "TrName": "Washington, D.C."
+            },
+            "Currency": {
+                "Symbol": "USD",
+                "EnName": "United States dollar",
+                "RuName": "Доллар США",
+                "TrName": "Amerikan Doları"
+            }
+        },
+        {
+            "Id": 184,
+            "Name": {
+                "EnName": "Uruguay",
+                "RuName": "Уругвай",
+                "TrName": "Uruguay"
+            },
+            "Capital": {
+                "EnName": "Montevideo",
+                "RuName": "Монтевидео",
+                "TrName": "Montevideo"
+            },
+            "Currency": {
+                "Symbol": "UYU",
+                "EnName": "Uruguayan peso",
+                "RuName": "Уругвайское песо",
+                "TrName": "Uruguay Pesosu"
+            }
+        },
+        {
+            "Id": 185,
+            "Name": {
+                "EnName": "Uzbekistan",
+                "RuName": "Узбекистан",
+                "TrName": "Özbekistan"
+            },
+            "Capital": {
+                "EnName": "Tashkent",
+                "RuName": "Ташкент",
+                "TrName": "Taşkent"
+            },
+            "Currency": {
+                "Symbol": "UZS",
+                "EnName": "Uzbekistani som",
+                "RuName": "Узбекский сум",
+                "TrName": "Özbekistan Somu"
+            }
+        },
+        {
+            "Id": 186,
+            "Name": {
+                "EnName": "Vanuatu",
+                "RuName": "Вануату",
+                "TrName": "Vanuatu"
+            },
+            "Capital": {
+                "EnName": "Port Vila",
+                "RuName": "Порт-Вила",
+                "TrName": "Port Vila"
+            },
+            "Currency": {
+                "Symbol": "VUV",
+                "EnName": "Vanuatu vatu",
+                "RuName": "Вату Вануату",
+                "TrName": "Vanuatu Vatusu"
+            }
+        },
+        {
+            "Id": 187,
+            "Name": {
+                "EnName": "Vatican",
+                "RuName": "Ватикан",
+                "TrName": "Vatikan"
+            },
+            "Capital": {
+                "EnName": "Vatican City",
+                "RuName": "Ватикан",
+                "TrName": "Vatikan"
+            },
+            "Currency": {
+                "Symbol": "EUR",
+                "EnName": "Euro",
+                "RuName": "Евро",
+                "TrName": "Avro"
+            }
+        },
+        {
+            "Id": 188,
+            "Name": {
+                "EnName": "Venezuela",
+                "RuName": "Венесуэла",
+                "TrName": "Venezuela"
+            },
+            "Capital": {
+                "EnName": "Caracas",
+                "RuName": "Каракас",
+                "TrName": "Karakas"
+            },
+            "Currency": {
+                "Symbol": "VED",
+                "EnName": "Venezuelan bolívar",
+                "RuName": "Венесуэльский боливар",
+                "TrName": "Venezuela Bolivarı"
+            }
+        },
+        {
+            "Id": 189,
+            "Name": {
+                "EnName": "Vietnam",
+                "RuName": "Вьетнам",
+                "TrName": "Vietnam"
+            },
+            "Capital": {
+                "EnName": "Hanoi",
+                "RuName": "Ханой",
+                "TrName": "Hanoi"
+            },
+            "Currency": {
+                "Symbol": "VND",
+                "EnName": "Vietnamese đồng",
+                "RuName": "Вьетнамский донг",
+                "TrName": "Vietnam Dongu"
+            }
+        },
+        {
+            "Id": 190,
+            "Name": {
+                "EnName": "Yemen",
+                "RuName": "Йемен",
+                "TrName": "Yemen"
+            },
+            "Capital": {
+                "EnName": "Sana'a",
+                "RuName": "Сана",
+                "TrName": "Sana"
+            },
+            "Currency": {
+                "Symbol": "YER",
+                "EnName": "Yemeni rial",
+                "RuName": "Йеменский риал",
+                "TrName": "Yemen Riyali"
+            }
+        },
+        {
+            "Id": 191,
+            "Name": {
+                "EnName": "Zambia",
+                "RuName": "Замбия",
+                "TrName": "Zambiya"
+            },
+            "Capital": {
+                "EnName": "Lusaka",
+                "RuName": "Лусака",
+                "TrName": "Lusaka"
+            },
+            "Currency": {
+                "Symbol": "ZMW",
+                "EnName": "Zambian kwacha",
+                "RuName": "Замбийская квача",
+                "TrName": "Zambiya kvaçası"
+            }
+        },
+        {
+            "Id": 192,
+            "Name": {
+                "EnName": "Zimbabwe",
+                "RuName": "Зимбабве",
+                "TrName": "Zimbabve"
+            },
+            "Capital": {
+                "EnName": "Harare",
+                "RuName": "Хараре",
+                "TrName": "Harare"
+            },
+            "Currency": {
+                "Symbol": "ZiG",
+                "EnName": "Zimbabwe Gold",
+                "RuName": "Зимбабвийское золото",
+                "TrName": "Zimbabve Altını"
+            }
+        }
+    ]
+}
