@@ -217,4 +217,11 @@ public class GameManager : MonoBehaviour
         SaveLoader.SaveResources.PointsTotal = pointsTotal;
         SaveLoader.SaveToJson();
     }
+
+    public void ChangeLanguage(string language)
+    {
+        SaveLoader.SaveResources.Language = language;
+        SaveLoader.SaveToJson();
+        SceneManager.LoadScene(0);
+    }
 }

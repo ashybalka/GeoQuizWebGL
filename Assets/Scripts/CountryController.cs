@@ -66,3 +66,4 @@ public class CountryController : MonoBehaviour
         gameManager.CreateNewQuestion(gameMode);
     }
 }
+
