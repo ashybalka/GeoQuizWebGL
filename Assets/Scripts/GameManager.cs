@@ -122,9 +122,11 @@ public class GameManager : MonoBehaviour
 
     public string TranslateCountryName(int id)
     {
+        Debug.Log(SaveLoader.SaveResources.Language);
         return SaveLoader.SaveResources.Language switch
         {
-            "En-En" => countryStats.Country._countriesList.Where(c => c.Id == id).First().Name.EnName,
+            
+            "En-en" => countryStats.Country._countriesList.Where(c => c.Id == id).First().Name.EnName,
             "Ru-ru" => countryStats.Country._countriesList.Where(c => c.Id == id).First().Name.RuName,
             "Tr-tr" => countryStats.Country._countriesList.Where(c => c.Id == id).First().Name.TrName,
             _ => countryStats.Country._countriesList.Where(c => c.Id == id).First().Name.RuName,
@@ -135,7 +137,7 @@ public class GameManager : MonoBehaviour
     {
         return SaveLoader.SaveResources.Language switch
         {
-            "En-En" => countryStats.Country._countriesList.Where(c => c.Id == id).First().Capital.EnName,
+            "En-en" => countryStats.Country._countriesList.Where(c => c.Id == id).First().Capital.EnName,
             "Ru-ru" => countryStats.Country._countriesList.Where(c => c.Id == id).First().Capital.RuName,
             "Tr-tr" => countryStats.Country._countriesList.Where(c => c.Id == id).First().Capital.TrName,
             _ => countryStats.Country._countriesList.Where(c => c.Id == id).First().Capital.RuName,
